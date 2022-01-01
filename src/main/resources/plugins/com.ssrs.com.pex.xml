@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <id>com.ssrs.com.pex.Com.pexPlugin</id>
+    <class>com.ssrs.com.pex.Com.pexPlugin</class>
+    <name>com.pex</name>
+    <author>ssrs</author>
+    <provider>ssrs</provider>
+    <version>1.0</version>
+    <description>com.pex</description>
+
+</plugin>
